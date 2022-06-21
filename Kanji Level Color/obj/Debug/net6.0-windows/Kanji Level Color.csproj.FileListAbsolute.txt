@@ -1,0 +1,19 @@
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\bin\Debug\net6.0-windows\Kanji Level Color.exe
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\bin\Debug\net6.0-windows\Kanji Level Color.deps.json
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\bin\Debug\net6.0-windows\Kanji Level Color.runtimeconfig.json
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\bin\Debug\net6.0-windows\Kanji Level Color.dll
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\bin\Debug\net6.0-windows\Kanji Level Color.pdb
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.csproj.AssemblyReference.cache
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.csproj.ResolveComReference.cache
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji_Level_Color.Form1.resources
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.csproj.GenerateResource.cache
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.AssemblyInfoInputs.cache
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.AssemblyInfo.cs
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.csproj.CoreCompileInputs.cache
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.dll
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\refint\Kanji Level Color.dll
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.pdb
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\Kanji Level Color.genruntimeconfig.cache
+C:\Users\onure\source\repos\Kanji Level Color\Kanji Level Color\obj\Debug\net6.0-windows\ref\Kanji Level Color.dll
